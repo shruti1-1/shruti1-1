@@ -56,7 +56,6 @@ Building smart, intelligent systems using Python, AI, automation & real-world da
 <p align="left">
   <a href="https://github.com/shruti1-1/Diabetes_Prediction">Diabetes Prediction</a> | 
   <a href="https://github.com/shruti1-1/Skin-care-assistant">Skin Care Assistant</a> | 
-  <a href="https://github.com/shruti1-1/GHUB">GHUB</a>
 </p>
 <p align="left"><b>Click the links to visit the project repositories!</b></p>
 
